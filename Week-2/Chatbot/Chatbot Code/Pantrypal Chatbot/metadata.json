@@ -1,0 +1,6 @@
+{
+  "name": "PantryPal",
+  "description": "Your bachelor roommate coding buddy that helps you cook delicious, batch-friendly meals from whatever is in your pantry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
