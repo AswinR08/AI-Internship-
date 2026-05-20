@@ -1,0 +1,6 @@
+{
+  "name": "Sergeant Fit",
+  "description": "Interactive chatbot representing Sergeant Fit, a strict, direct military fitness coach designing customized workout plans around your schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
